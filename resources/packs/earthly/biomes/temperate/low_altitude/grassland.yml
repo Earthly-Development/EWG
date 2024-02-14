@@ -1,0 +1,12 @@
+id: GRASSLAND
+type: BIOME
+extends: [EARTHLY_BIOME, TERRAIN_LOWLANDS]
+vanilla: minecraft:plains
+color: $biomes/colors.yml:GRASSLAND
+
+palette:
+  - PALETTE_GRASS: 319
+
+features:
+  flora:
+    - GRASS

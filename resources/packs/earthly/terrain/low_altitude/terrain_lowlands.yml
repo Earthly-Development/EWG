@@ -1,0 +1,20 @@
+id: TERRAIN_LOWLANDS
+type: BIOME
+abstract: true
+
+### Generates very low-lying, flat lands that do not dip below sea level.
+
+terrain:
+  sampler:
+    type: EXPRESSION
+    dimensions: 3
+    expression: -y + 63 + |noise(x, y, z) * 6|
+    samplers:
+      noise:
+        type: FBM
+        dimensions: 3
+        octaves: 4
+        lacunarity: 2.15
+        sampler:
+          type: OPEN_SIMPLEX_2
+          frequency: 0.0075

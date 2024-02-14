@@ -3,8 +3,9 @@
 
 ## Installation
 Please see the [wiki page]() for installation instructions.
-
+ 
 ## Information
+Coming soon.
 
 ## Credits
-- Trees by [Eremilion](https://www.planetminecraft.com/member/eremilion/). Some have been modified to change the logs/leaves and/or remove non survival-friendly blocks.
+- [Terra Overworld Config](https://github.com/PolyhedralDev/TerraOverworldConfig/) - Borrowed meta structure.

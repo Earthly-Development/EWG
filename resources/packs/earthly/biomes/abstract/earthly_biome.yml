@@ -1,0 +1,7 @@
+id: EARTHLY_BIOME
+type: BIOME
+abstract: true
+
+ocean:
+  palette: BLOCK:minecraft:water
+  level: 62
