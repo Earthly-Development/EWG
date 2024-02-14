@@ -7,4 +7,4 @@ Please see the [wiki page]() for installation instructions.
 ## Information
 
 ## Credits
-- Trees by [Eremilion](https://www.planetminecraft.com/member/eremilion/)
+- Trees by [Eremilion](https://www.planetminecraft.com/member/eremilion/). Some have been modified to change the logs/leaves and/or remove non survival-friendly blocks.
