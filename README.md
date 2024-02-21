@@ -8,4 +8,4 @@ Please see the [wiki page](https://github.com/Earthly-Development/EWG/wiki) for 
 Coming soon.
 
 ## Credits
-- [Terra Overworld Config](https://github.com/PolyhedralDev/TerraOverworldConfig/) - Borrowed meta structure.
+- Nearly all trees and bushes by [Paleozoey.](https://www.planetminecraft.com/member/paleozoey/)
